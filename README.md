@@ -3,3 +3,5 @@ Ejercicio 1 del módulo 2, ejercicio P2P curso "Desarrollo en HTML5, CSS y Javas
 
 Ejercicio práctico sober los carácteres especiales y etiquetas HTML. Demasiado fácil.<br>
 http://santaeugenia.neocities.org/ej1p2pmod1.html
+
+CC BY-NC-SA
